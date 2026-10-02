@@ -5,4 +5,3 @@ git clone https://github.com/mora1ss/shell-wallpapers
 ```
 ---
 
-![preview](preview.png)
